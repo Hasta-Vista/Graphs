@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iovch\\source\\repos\\ExitFromTheMaze - 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BEF698-F5B0-452F-BCF6-B6A0F93D418B}|ExitFromTheMaze - 1\\ExitFromTheMaze - 1.vcxproj|C:\\Users\\iovch\\source\\repos\\ExitFromTheMaze - 1\\ExitFromTheMaze - 1\\ExitFromTheMaze - 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3BEF698-F5B0-452F-BCF6-B6A0F93D418B}|ExitFromTheMaze - 1\\ExitFromTheMaze - 1.vcxproj|solutionrelative:ExitFromTheMaze - 1\\ExitFromTheMaze - 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExitFromTheMaze - 1.cpp",
+              "DocumentMoniker": "C:\\Users\\iovch\\source\\repos\\ExitFromTheMaze - 1\\ExitFromTheMaze - 1\\ExitFromTheMaze - 1.cpp",
+              "RelativeDocumentMoniker": "ExitFromTheMaze - 1\\ExitFromTheMaze - 1.cpp",
+              "ToolTip": "C:\\Users\\iovch\\source\\repos\\ExitFromTheMaze - 1\\ExitFromTheMaze - 1\\ExitFromTheMaze - 1.cpp",
+              "RelativeToolTip": "ExitFromTheMaze - 1\\ExitFromTheMaze - 1.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T16:51:05.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

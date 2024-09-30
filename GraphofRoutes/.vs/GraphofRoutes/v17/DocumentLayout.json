@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iovch\\source\\repos\\GraphofRoutes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76E8B6E8-DBC7-4964-BAC8-B8F7B766A1A8}|GraphofRoutes\\GraphofRoutes.vcxproj|C:\\Users\\iovch\\source\\repos\\GraphofRoutes\\GraphofRoutes\\GraphofRoutes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76E8B6E8-DBC7-4964-BAC8-B8F7B766A1A8}|GraphofRoutes\\GraphofRoutes.vcxproj|solutionrelative:GraphofRoutes\\GraphofRoutes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GraphofRoutes.cpp",
+              "DocumentMoniker": "C:\\Users\\iovch\\source\\repos\\GraphofRoutes\\GraphofRoutes\\GraphofRoutes.cpp",
+              "RelativeDocumentMoniker": "GraphofRoutes\\GraphofRoutes.cpp",
+              "ToolTip": "C:\\Users\\iovch\\source\\repos\\GraphofRoutes\\GraphofRoutes\\GraphofRoutes.cpp",
+              "RelativeToolTip": "GraphofRoutes\\GraphofRoutes.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-24T14:48:44.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
